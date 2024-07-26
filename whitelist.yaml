@@ -30,3 +30,6 @@
   - url: "*.tistory.com"
   - url: "*.surge.sh"
   - url: revoke.cash
+  - url: "*.financial.cv"
+  - url: "*.solana.cv"
+  
